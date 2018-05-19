@@ -1,0 +1,34 @@
+CURSO DE PYTHON:
+MUNDO 1:
+
+https://www.youtube.com/watch?v=S9uPNppGsGo&list=PLHz_AreHm4dlKP6QQCekuIPky1CiwmdI6
+
+MUNDO 2:
+
+https://www.youtube.com/watch?v=nJkVHusJp6E&list=PLHz_AreHm4dk_nZHmxxf_J0WRAqy5Czye
+
+PLATAFORMA DE CURSOS:
+
+https://www.udemy.com/
+
+https://www.freecodecamp.org/
+
+https://br.udacity.com/
+
+PLATAFORMA DE TESTES:
+
+Codepen: https://codepen.io/
+
+JsBin:https://jsbin.com/?html,css,output
+
+IMPORTANTE:
+
+https://www.tecmundo.com.br/software/129447-jogo-celular-google-ensina-
+programacao-para-adultos.htm
+
+https://getbootstrap.com/docs/4.0/getting-started/introduction/
+
+https://www.w3schools.com/
+
+https://stackoverflow.com/
+
